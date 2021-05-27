@@ -3,7 +3,6 @@ import common.JvmVersion
 import common.Os
 import common.VersionedSettingsBranch
 import configurations.FunctionalTest
-import configurations.StagePasses
 import jetbrains.buildServer.configs.kotlin.v2019_2.Project
 import jetbrains.buildServer.configs.kotlin.v2019_2.buildSteps.GradleBuildStep
 import jetbrains.buildServer.configs.kotlin.v2019_2.failureConditions.BuildFailureOnText
